@@ -18,6 +18,6 @@ Software Engineer with the focus on backend and distributed system .
 Primary tech stack includes `nodejs docker postgresql mongodb typescript linux`. But like to work with different technologies based on necessity.
 Like to explore tech and so I've worked with many other technologies a little including `php python rust go c++ lua c `etc.
 
-Interested in **Microservices** , **Event Driven Architecture**, **Test Driven Development**, **Domen Driven Design**, **Cloud Computing** , **Distributed System**, **CQRS** etc.
+Interested in **Microservices** , **Event Driven Architecture**, **Test Driven Development**, **Domain Driven Design**, **Cloud Computing** , **Distributed System**, **CQRS** etc.
 
 Also can do frontend on forcefully in `reactjs/nextjs`
